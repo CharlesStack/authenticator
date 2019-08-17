@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/09/17 11:22:54.000.454,C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\TabbedApplication.dproj=C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\Authenticator1App.dproj</Transaction>
+    <Transaction>2014/09/17 11:23:22.000.059,C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\TabbedTemplate.fmx=C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\MainForm.fmx</Transaction>
+    <Transaction>2014/09/17 11:23:22.000.059,C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\TabbedTemplate.pas=C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\MainForm.pas</Transaction>
+    <Transaction>2014/09/17 11:24:47.000.509,=C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\Base32U.pas</Transaction>
+    <Transaction>2014/09/17 11:24:53.000.368,=C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\GoogleOTP.pas</Transaction>
+    <Transaction>2014/09/17 11:40:32.000.421,=C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\Unit1.pas</Transaction>
+    <Transaction>2014/09/17 11:40:57.000.737,C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\Unit1.pas=C:\Users\chuckjs\Documents\Embarcadero\Studio\Projects\Auth1\GoogleAuthenticator.pas</Transaction>
+  </Transactions>
+	<MobileDevice>%iossimulator%D08D8AE6-0325-424F-B882-8FAD4F03079B-iOSSimulator</MobileDevice>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Base32U.pas"/>
+    <File Path="GoogleAuthenticator.pas"/>
+    <File Path="GoogleOTP.pas"/>
+    <File Path="MainForm.pas"/>
+    <File Path="MainForm.fmx"/>
+  </ProjectSortOrder>
+</BorlandProject>
