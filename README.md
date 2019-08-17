@@ -1,5 +1,5 @@
 # authenticator
-Sample Delphi code implementing Google Authenticator TOTP 
+Sample Delphi code implementing Google Authenticator TOTP.  It runs under Delphi XE8.  I haven't ported to 10.3.2 yet.
 
 I'm pretty sure that some of this code is licensed until GPL. Thinking the attributes are still in place.
 I'm licensing my code under the MIT license.  
