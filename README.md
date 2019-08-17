@@ -4,7 +4,7 @@ Sample Delphi code implementing Google Authenticator TOTP
 I'm pretty sure that some of this code is licensed until GPL. Thinking the attributes are still in place.
 I'm licensing my code under the MIT license.  
 
-# Hat still needs to be done?
+# What still needs to be done?
 The core value that needs to be set is the secret_key.  Obviously, what's here is bogus.  
 Normally, you'd want to supply a way to parse the URL used by Google Authenticator and store the relevant info into a database.  That was beyond the scope of this simple project.
 
